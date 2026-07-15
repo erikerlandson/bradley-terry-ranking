@@ -1,2 +1,2 @@
 paired-comparison-ranking
-experiments with Bradley-Terry rankings, and related methods
+experiments with paired comparison rankings for leaderboard data
